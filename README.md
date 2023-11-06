@@ -1,4 +1,4 @@
-># CampHood
+># HelpCamp
 >This project is made by using -
 >**_Mongoose_, _ExpressJS_, _EJS_, _Bootstrap_**
 >### What we can do in the website-
